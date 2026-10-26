@@ -1,5 +1,7 @@
 # Food Delivery Time Prediction
 
+https://food-delivery-time-predictor1.streamlit.app/
+
 Predict how many **minutes** a food delivery will take from the order details: the delivery person, distance, weather, traffic, vehicle, and more. This is a **supervised regression** project, built end to end from raw, messy data to a saved model and a small web app.
 
 ---
@@ -117,3 +119,5 @@ Running `train.py` or the app creates a `model/` folder with the saved pipeline 
 
 **Shivraj Varale**
 B.Tech CSE (AI & ML), VIT Bhopal University
+
+
